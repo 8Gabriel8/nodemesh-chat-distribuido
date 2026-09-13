@@ -1,5 +1,3 @@
-
-
 **REPORTE:**  
 **Entregable 1** 
 
@@ -17,7 +15,22 @@
 PRESENTADO A:   
 **PROF. [Mauricio Giles Pérez](mailto:mgiles@ucaribe.edu.mx)**
 
-Cancún, Quintana Roo                                                                  Abril XX, 2023
+Cancún, Quintana Roo                                                                  Septiembre, 2026
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-Framework-black?logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-Tested-FF6C37?logo=postman&logoColor=white) ![ngrok](https://img.shields.io/badge/ngrok-Enabled-1F1E37?logo=ngrok&logoColor=white)
+
+---
+
+## Tabla de contenidos
+
+1. [Número de nodos](#1-número-de-nodos)
+2. [Comunicación entre nodos](#2-comunicación-entre-nodos)
+3. [Comportamiento ante la caída de un nodo](#3-comportamiento-ante-la-caída-de-un-nodo)
+4. [Diagrama de arquitectura](#4-diagrama-de-arquitectura)
+5. [Descripción del diagrama](#5-descripción-del-diagrama)
+6. [Versión de Python utilizada](#6-versión-de-python-utilizada)
+
+---
 
 # **1\. Número de nodos**
 
