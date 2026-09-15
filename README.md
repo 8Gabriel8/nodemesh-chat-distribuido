@@ -29,6 +29,7 @@ Cancún, Quintana Roo                                                           
 4. [Diagrama de arquitectura](#4-diagrama-de-arquitectura)
 5. [Descripción del diagrama](#5-descripción-del-diagrama)
 6. [Versión de Python utilizada](#6-versión-de-python-utilizada)
+7. [Evidencia de funcionamiento del nodo](EVIDENCIA_NODO.md)
 
 ---
 
